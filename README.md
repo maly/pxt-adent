@@ -4,6 +4,7 @@
 ## Použít jako rozšíření
 
 Toto úložiště lze přidat jako **rozšíření** v aplikaci MakeCode.
+Ale je to testovací
 
 * otevřít [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * klikněte na možnost **Nový projekt**
